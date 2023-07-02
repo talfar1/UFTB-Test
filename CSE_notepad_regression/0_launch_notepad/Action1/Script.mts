@@ -1,1 +1,0 @@
-﻿OpenApp "notepad.exe"
